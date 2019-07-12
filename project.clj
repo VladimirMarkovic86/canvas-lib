@@ -1,4 +1,4 @@
-(defproject org.clojars.vladimirmarkovic86/canvas-lib "0.1.1"
+(defproject org.clojars.vladimirmarkovic86/canvas-lib "0.1.2"
   :description "Canvas library"
   :url "http://github.com/VladimirMarkovic86/canvas-lib"
   :license {:name "Eclipse Public License"
@@ -6,7 +6,7 @@
   :dependencies [[org.clojure/clojure "1.9.0"]
                  [org.clojure/clojurescript "1.10.339"]
                  [org.clojars.vladimirmarkovic86/htmlcss-lib "0.1.6"]
-                 [org.clojars.vladimirmarkovic86/utils-lib "0.4.9"]
+                 [org.clojars.vladimirmarkovic86/utils-lib "0.4.10"]
                  ]
 
   :min-lein-version "2.0.0"
